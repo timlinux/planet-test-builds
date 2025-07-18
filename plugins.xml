@@ -9,7 +9,7 @@
                 <file_name>planet_explorer.zip</file_name>
                 <icon>resources/planet-logo-p.png</icon>
                 <author_name><![CDATA[Planet Inc]]></author_name>
-                <download_url>https://github.com/timlinux/planet-test-builds/planet_explorer.zip</download_url>
+                <download_url>https://github.com/timlinux/planet-test-builds/raw/refs/heads/main/planet_explorer.zip</download_url>
                 <update_date>2025-07-18 14:20:06</update_date>
                 <experimental>True</experimental>
                 <deprecated>False</deprecated>
